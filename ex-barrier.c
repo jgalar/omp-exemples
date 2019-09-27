@@ -11,7 +11,7 @@ int main(int argc, char **argv)
                 if (omp_get_thread_num() == 0) {
                         x = 5;
                 } else {
-                        /* Quelque chose d'étrange ici? */
+                        /* Notez vous quelque chose d'étrange ici? */
                         printf("Thread %d sees x = %d\n", omp_get_thread_num(), x);
                 }
 
