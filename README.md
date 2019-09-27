@@ -20,4 +20,4 @@ Hello world! I'm 8 of 12
 Hello world! I'm 4 of 12
 ```
 
-Amusez-vous à les modifier pour vous assurer de comprendre les fondamentales notions d'OpenMP, l'impact des barrières implicites, etc.
+Amusez-vous à les modifier pour vous assurer de comprendre les notions fondamentales d'OpenMP, l'impact des barrières implicites, etc.
